@@ -1,1 +1,2 @@
 # Sten-Sax-Pase
+11/11/2026: skapade en bas av programmet och började på if satserna. importerade random för att roboten ska kunna välja sten sax eller påse slumpmässigt. Började conversationen med användaren.
