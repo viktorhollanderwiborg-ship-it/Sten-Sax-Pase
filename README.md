@@ -1,2 +1,3 @@
 # Sten-Sax-Pase
 11/11/2026: skapade en bas av programmet och började på if satserna. importerade random för att roboten ska kunna välja sten sax eller påse slumpmässigt. Började conversationen med användaren.
+11/12/2026: Utvecklade programmet och la in en loop för att göra spelandet möjligt. Skapade ett poäng system för att räkna poängen som spelaren och användaren vinner. Och en massa andra saker säkert.
